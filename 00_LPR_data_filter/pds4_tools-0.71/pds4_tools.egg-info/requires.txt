@@ -1,0 +1,8 @@
+
+[full_reader]
+numpy
+
+[full_viewer]
+Tkinter
+numpy
+matplotlib
